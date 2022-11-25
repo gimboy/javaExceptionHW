@@ -1,0 +1,2 @@
+Person{surname='Ivan', name='Ivanov', patronymic='New', birthday='09.09.2009', phoneNumber=8912431, gender=w}
+Person{surname='Ivan', name='Ivanov', patronymic='New2', birthday='09.09.2009', phoneNumber=8912431, gender=m}
